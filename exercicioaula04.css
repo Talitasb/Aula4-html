@@ -1,0 +1,35 @@
+
+div{
+    width: 100px;
+    display:inline-block;
+}
+.quadrado1{
+    width: 94%;
+    height: 90px;
+    background-color: cornflowerblue;
+   
+}
+.quadrado2{
+    background-color: cornflowerblue;
+    margin-top: 5px;
+    width: 47%;
+    height: 450px
+    
+}
+.quadrado3{
+    background-color: cornflowerblue;
+    width: 47%;
+    height: 450px
+}
+p#principal{
+    margin-top: 40px;
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+p{
+    margin-top: 200px;
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}

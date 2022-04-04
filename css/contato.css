@@ -1,0 +1,24 @@
+*{
+    color: rgb(92, 13, 92);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.quadro{
+
+    background-color:rgb(223, 219, 223);
+    width: 650px;
+    height: 220px;
+    border-radius: 10px;
+    margin-top: 50px;
+    justify-content:center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+     }
+   .form{
+       justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+        }
+
